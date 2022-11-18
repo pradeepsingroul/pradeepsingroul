@@ -1,102 +1,56 @@
-<!----------------------------------- Heading Section ------------------------------------>
-<h1 align="center">
-    Hi
-    <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35">
-    I'm Pradeep Singroul
-    <img src="https://camo.githubusercontent.com/d3359cb00ab0b5ed8f2e1fe3fceb4fbaf3b614340f8c0db99c17b9f50b351770/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313533313834393433302f343234362f626c6f622d73756e676c61737365732e6769663f31353331383439343330" width="35">
-</h1>
-<h3>A passionate Full Stack Web developer from India who always strives to work on end to end products. I specialise in building web applications with the MERN stack.</h3>
-<img alt="top-img" src="https://media.tenor.com/UttC4AITYR4AAAAd/full-stack-developer.gif" width="100%" />
+<h1 align="center">Hi 👋, I'm Pradeep Singroul</h1>
+<h3 align="center">Java Backend Developer</h3>
 
-<!----------------------------------- Profile View Section ------------------------------------>
-<p align="center">
-    <a href="https://github.com/rohiniee0028">
-        <img src="https://komarev.com/ghpvc/?username=rohiniee0028&label=Profile%20views&color=0e75b6&style=flat" alt="rohiniee0028" />
-    </a>
-    <a href="https://github.com/rohiniee0028?tab=followers">
-        <img src="https://img.shields.io/github/followers/rohiniee0028?label=Followers&style=social" alt="followers-count">
-    </a>
-</p>
-
----------------------------------
-
-<!----------------------------------- About Section ------------------------------------>
-
-<img align="right" alt="Coding" width="350" height="280" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif"/>
-
-### :woman_technologist: About Me :
-I am a 🖥 Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
-
-:telescope: I am currently learning MERN stack at Masai School.
-  
-:mailbox:How to reach me: <a href="mailto:rohini19394@gmail.com">rohini19394@gmail.com</a>
-
-:open_book: Know about my experience <a href="https://drive.google.com/file/d/1BzKof1R8By3Y8y6cEkywzi1IOnVIUDut/view?usp=sharing">Resume</a>
-
-<br/>
-
-<!----------------------------------- Tech Stack Section ------------------------------------>
-
-### :hammer_and_wrench: Languages and Tools :
-<br/>
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="typeScript" width="40" height="40"/>
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-  <br/><br/>
-   <img src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white" align="center" alt="git"/>
-   <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" align="center" alt="git"/>
-   <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=whit" align="center" alt="git"/>
-   <img src="https://img.shields.io/badge/Git-f44d27?style=for-the-badge&logo=git&logoColor=white"  align="center" alt="git"/>
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"  align="center" alt="github"/>
-<img src ="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" align="center" alt="postman">
-<img src = "https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" align="center" alt="npm">
-   <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white"  align="center" alt="vscode"/>
-   <br/>
- </div>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sumitpanchal08&label=Profile%20views&color=0e75b6&style=flat" alt="sumitpanchal08" /> </p>
+<h3 align="left">About Me</h3>
+<div style="display: flex; justify-content: space-around;" >
+ <p align="left" style="width: 50%;">Skilled Java Backend developer and quick learner who
+possesses the ability to adapt with new environments
+quickly. Looking for a challenging role in the industry to
+utilize my skills and develop further.
+ </p>
+ <img  align="right" alt="Coding" width="200" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
 </div>
 
-----------------------------------
+- 🌱 I’m currently learning **Java, Spring boot, MySQL**
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=rohiniee0028&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+- 👨‍💻 All of my projects are available at [pradeepsingroul.github.io](pradeepsingroul.github.io)
 
----------------------------------
+- 💬 Ask me about **Java, JavaScript, DSA**
 
-<!-------------------connect with me------------------------>
+- 📫 How to reach me **prasingroul4899@gmail.com**
 
-<h3 align="left"><img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="40px" height="40px" align="center"> Connect with me :</h3>
- <a href="https://www.linkedin.com/in/rohini-kushwaha-735b9322b/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-    <a title="rohini19394@gmail.com" href="mailto:rohini19394@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="mohitsehrawat000@gmail.com" />
-    </a>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/pradeep-singroul-632410233/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pradeepsingroul" height="30" width="40" /></a>
 </p>
 
----------------------------------
-<!----------------------------------- GitHub Stats Section ------------------------------------>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
 
-### :fire: My Github Stats :
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pradeepsingroul_icons=true&locale=en&layout=compact" alt="pradeepsingroul" /></p>
 
-<p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=rohiniee0028&show_icons=true&include_all_commits=true&count_private=true&hide=issues,contribs&border_radius=0&locale=en&theme=dark" alt="rohiniee0028" height="139" />
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohiniee0028&layout=compact&exclude_repo=Lybrate-Website-Clone-Version-2.0,Lybrate-Website-Clone,Adidas-Clone&hide=Shell&border_radius=0&theme=dark" alt="rohiniee0028" height="139" />
-</p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pradeepsingroul&show_icons=true&locale=en" alt="pradeepsingroul" /></p>
 
-<br/>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pradeepsingroul&" alt="pradeepsingroul" /></p>
 
-<p align="center">
-    <a href="https://github.com/rohiniee0028/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="rohini's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=rohiniee0028&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
-</p>
+<h3>My Activity Graph:</h3>
+  <br/>
+   <a href="https://github.com/pradeepsingroul"><img alt="sathish-dhana's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=pradeepsingroul&custom_title=Sumit's%20Contribution%20Graph&theme=react-dark" /></a>
+  <br/>
 
-<br/>
+<!--
+**sumitpanchal08/sumitpanchal08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-<a href="https://github.com/rohiniee0028/github-readme-activity-graph"><img alt="rohiniee0028's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=rohiniee0028&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
