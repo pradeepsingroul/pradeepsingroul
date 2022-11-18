@@ -1,56 +1,84 @@
-<h1 align="center">Hi 👋, I'm Pradeep Singroul</h1>
-<h3 align="center">Java Backend Developer</h3>
+                                                        
+![MasterHead](https://qph.fs.quoracdn.net/main-qimg-fa7b4bdc3b2f73e749e5c2c646d4ae13)
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=ff0000&amp;size=20&amp;lines=Hey!+It's+Vinay+Kumar!;Learning+Java+Back-end+Development...👨🏻‍💻;" style="width: 100%;">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+<h1 align="center"> 😇(Hello i am pradeep singroul)" 👋</h1>
+<h3 align="center">Currently Learning Java Backend Development from Masai School</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sumitpanchal08&label=Profile%20views&color=0e75b6&style=flat" alt="sumitpanchal08" /> </p>
-<h3 align="left">About Me</h3>
-<div style="display: flex; justify-content: space-around;" >
- <p align="left" style="width: 50%;">Skilled Java Backend developer and quick learner who
-possesses the ability to adapt with new environments
-quickly. Looking for a challenging role in the industry to
-utilize my skills and develop further.
- </p>
- <img  align="right" alt="Coding" width="200" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
-</div>
+<img align="right" alt="Coding" width="400" src="https://storage.googleapis.com/media.helloumi.com/125042/channels/FJ3DZITWCY268043HGFACIP9CFUA9XM6.gif">
+                                                       
+- 🔭 I’m currently working on **MySkill😄**
+- 🌱 I’m currently learning **Masai School (Backend Developer)**
+- 💬 Ask me about **Java**
+- 👨‍💻 All of my projects are available at [My Portfolio](https://pradeepsingroul.github.io/)
+-  📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1kD6xZMRgwfWEgdotlP9yO2qcagqpRrTZ/view?usp=sharing)
+- 📫 How to reach me: ...**prasingroul4899@gmail.com**
+- 😄 Pronouns: ...@pradeep
+- ⚡ Fun fact: ...Always smile😄 in tough situation
 
-- 🌱 I’m currently learning **Java, Spring boot, MySQL**
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
-- 👨‍💻 All of my projects are available at [pradeepsingroul.github.io](pradeepsingroul.github.io)
+                                                       
+<h2><i>My GitHub Status</i></h2>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pradeepsingroul&label=Profile%20views&color=0e75b6&style=flat" /> </p>
 
-- 💬 Ask me about **Java, JavaScript, DSA**
-
-- 📫 How to reach me **prasingroul4899@gmail.com**
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/pradeep-singroul-632410233/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pradeepsingroul" height="30" width="40" /></a>
+<p>
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=pradeepsingroul&show_icons=true&locale=en&theme=dark" alt="pradeepsingroul"  height="139" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pradeepsingroul&show_icons=true&locale=en&layout=compact&theme=dark" alt="pradeep singroul" height="139" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+<img src="https://activity-graph.herokuapp.com/graph?username=pradeepsingroul&theme=xcode" height ="307"/>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pradeepsingroul_icons=true&locale=en&layout=compact" alt="pradeepsingroul" /></p>
+![snake gif](https://github.com/pradeepsingroul/pradeepsingroul/blob/output/github-contribution-grid-snake.svg)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pradeepsingroul&show_icons=true&locale=en" alt="pradeepsingroul" /></p>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pradeepsingroul&" alt="pradeepsingroul" /></p>
 
-<h3>My Activity Graph:</h3>
-  <br/>
-<!--    <a href="https://github.com/pradeepsingroul"><img alt="pradeepsingroul's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=pradeepsingroul&custom_title=Sumit's%20Contribution%20Graph&theme=react-dark" /></a> -->
-  <br/>
 
-<!--
-**pradeepsingroul/pradeepsingroul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<div align="center">  
+                                                         
+<h3 align="left">Connect with me</h3>
+<p align="center">
+
+<a href="https://www.linkedin.com/in/pradeep-singroul-632410233/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pradeep singroul" height="25" width="35" /></a>
+</p>
+</div>  
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+
+                                                          
+
+<h3 align="left">🛠 &nbsp;Tech Stack </h3>
+
+<div align="center">  
+   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /> 
+   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />
+  <img style="margin: 10px" src="https://cdn.freebiesupply.com/logos/thumbs/2x/hibernate-logo.png" alt="Hibernate" height="50" />
+   <img style="margin: 10px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSc4gOUoPCLdDqEGb7Nk62T2VPDs_sods_F7sTscWw&s" alt="Springboot" height="50" />
+   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /> 
+  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
+  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /> 
+  <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="JavaScript" height="50" /> 
+   
+ 
+
+  
+
+<!--    -->
+
+<!--    --> 
+
+
+
+
+</div>  
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=ff0000&amp;size=20&amp;lines=Thanks!+For+Visiting+On+My+Profile!;See+You+Next-Time+Hope+u+like+its...👨🏻‍💻;" style="width: 100%;">
+
+<p align="center"><img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg"></p>
