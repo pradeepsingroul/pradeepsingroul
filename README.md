@@ -12,7 +12,7 @@
 - 🌱 I’m currently learning **Masai School (Backend Developer)**
 - 💬 Ask me about **Java**
 - 👨‍💻 All of my projects are available at [My Portfolio](https://pradeepsingroul.github.io/)
--  📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1kD6xZMRgwfWEgdotlP9yO2qcagqpRrTZ/view?usp=sharing)
+-  📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1pafcWlOtZ4EOZtamD3RwboC7_zLdH9Dr/view?usp=sharing)
 - 📫 How to reach me: ...**prasingroul4899@gmail.com**
 - 😄 Pronouns: ...@pradeep
 - ⚡ Fun fact: ...Always smile😄 in tough situation
@@ -30,7 +30,7 @@
 
 <img src="https://activity-graph.herokuapp.com/graph?username=pradeepsingroul&theme=xcode" height ="307"/>
 
-![snake gif](https://github.com/pradeepsingroul/pradeepsingroul/blob/output/github-contribution-grid-snake.svg)
+<!-- ![snake gif](https://github.com/pradeepsingroul/pradeepsingroul/blob/output/github-contribution-grid-snake.svg) -->
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
