@@ -45,6 +45,7 @@
 <p align="center">
 
 <a href="https://www.linkedin.com/in/pradeep-singroul-632410233/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pradeep singroul" height="25" width="35" /></a>
+  <a href="https://www.linkedin.com/in/pradeep-singroul-632410233/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pradeep singroul" height="25" width="35" /></a>
 </p>
 </div>  
 
