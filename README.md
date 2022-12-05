@@ -17,66 +17,20 @@
 - 😄 Pronouns: ...@pradeep
 - ⚡ Fun fact: ...Always smile😄 in tough situation
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pradeep-singroul-632410233/) 
+[![Twitter](https://img.shields.io/badge/Twitter-%230077B5.svg?logo=twitter&logoColor=white)](https://twitter.com/mr_pradeep_mp35)
 
-                                                       
-<h2><i>My GitHub Status</i></h2>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pradeepsingroul&label=Profile%20views&color=0e75b6&style=flat" /> </p>
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)  ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=pradeepsingroul&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=pradeepsingroul&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=pradeepsingroul&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<p>
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=pradeepsingroul&show_icons=true&locale=en&theme=dark" alt="pradeepsingroul"  height="139" />
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pradeepsingroul&show_icons=true&locale=en&layout=compact&theme=dark" alt="pradeep singroul" height="139" />
-</p>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=pradeepsingroul&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-<img src="https://activity-graph.herokuapp.com/graph?username=pradeepsingroul&theme=xcode" height ="307"/>
-
-<!-- ![snake gif](https://github.com/pradeepsingroul/pradeepsingroul/blob/output/github-contribution-grid-snake.svg) -->
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
-
-
-
-
-
-
-<div align="center">  
-                                                         
-<h3 align="left">Connect with me</h3>
-<p align="center">
-
-<a href="https://www.linkedin.com/in/pradeep-singroul-632410233/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pradeep singroul" height="25" width="35" /></a>
-  <a href="https://www.linkedin.com/in/pradeep-singroul-632410233/" target="blank"><img align="center" src="" alt="pradeep singroul" height="25" width="35" /></a>
-</p>
-</div>  
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
-
-                                                          
-
-<h3 align="left">🛠 &nbsp;Tech Stack </h3>
-
-<div align="center">  
-   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /> 
-   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />
-  <img style="margin: 10px" src="https://cdn.freebiesupply.com/logos/thumbs/2x/hibernate-logo.png" alt="Hibernate" height="50" />
-   <img style="margin: 10px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSc4gOUoPCLdDqEGb7Nk62T2VPDs_sods_F7sTscWw&s" alt="Springboot" height="50" />
-   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /> 
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /> 
-  <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="JavaScript" height="50" /> 
-   
- 
-
-  
-
-<!--    -->
-
-<!--    --> 
-
-
-
-
-</div>  
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
