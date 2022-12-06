@@ -1,8 +1,11 @@
                                                         
+<h1 align="center"> Hello, I am pradeep singroul" 👋</h1>
+<h3 align="center">Self-motivated and inspiring a java backend developer with 1200+ hours of hands-on codding experience. looking for a challenging growth-oriented organization</h3>
+
+
 ![MasterHead](https://qph.fs.quoracdn.net/main-qimg-fa7b4bdc3b2f73e749e5c2c646d4ae13)
 <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=ff0000&amp;size=20&amp;lines=Hey!+It's+PradeepSingroul!;Learning+Java+Back-end+Development...👨🏻‍💻;" style="width: 100%;">
-<h1 align="center"> 😇(Hello i am pradeep singroul)" 👋</h1>
-<h3 align="center">Currently Learning Java Backend Development from Masai School</h3>
+
 
 <img align="right" alt="Coding" width="400" src="https://storage.googleapis.com/media.helloumi.com/125042/channels/FJ3DZITWCY268043HGFACIP9CFUA9XM6.gif">
                                                        
