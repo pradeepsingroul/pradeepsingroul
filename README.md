@@ -1,6 +1,6 @@
                                                         
 <h1 align="center"> Hello world, I am pradeep singroul" 👋</h1>
-<h3 align="center">Self-motivated and inspiring a java backend developer with 1200+ hours of hands-on codding experience. looking for a challenging growth-oriented organization</h3>
+<h3 align="center">Self-motivated and inspiring a java backend developer with 1200+ hours of hands-on codding experience. looking for a challenging role in growth-oriented organization</h3>
 
 
 ![MasterHead](https://qph.fs.quoracdn.net/main-qimg-fa7b4bdc3b2f73e749e5c2c646d4ae13)
