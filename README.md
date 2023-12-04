@@ -13,7 +13,7 @@
 - 🌱 I’m currently learning **Masai School (Backend Developer)**
 - 💬 Ask me about **Java**
 - 👨‍💻 All of my projects are available at [My Portfolio](https://pradeepsingroul.github.io/)
--  📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1pafcWlOtZ4EOZtamD3RwboC7_zLdH9Dr/view?usp=sharing)
+-  📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1F3pVQoUnbdAooyzhV6w0mA0DZOJphHEM/view?usp=sharing)
 - 📫 How to reach me: ...**prasingroul4899@gmail.com**
 - 😄 Pronouns: ...@pradeep
 - ⚡ Fun fact: ...Always smile😄 in tough situation
